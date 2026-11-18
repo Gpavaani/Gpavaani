@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm G Pavani</h1>
-<h3 align="center">Aspiring Data Scientist | AI & Automation Enthusiast | CSE (Data Science) Student</h3>
+<h3 align="center">Aspiring Data Scientist | AI & Automation Enthusiast | B.E in CSE (Data Science) Graduate</h3>
 
 <p align="center">
   <a href="https://github.com/Gpavaani">GitHub</a> •
