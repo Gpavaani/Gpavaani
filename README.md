@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🎓 B.E. in Computer Science & Engineering (Data Science) at RNS Institute of Technology, Bengaluru (CGPA: 8.3) 【1-a87a05\|2】
+🎓 B.E. in Computer Science & Engineering (Data Science) at RNS Institute of Technology, Bengaluru (CGPA: 8.3) 
 
 💡 Passionate about Data Science, Artificial Intelligence, Machine Learning, and Automation.
 
@@ -64,12 +64,12 @@
 ### 💳 Credit Card Fraud Detection
 - Developed a machine learning pipeline to identify fraudulent transactions.
 - Implemented Random Forest and Logistic Regression models.
-- Achieved over 90% classification accuracy. 【1-a87a05\|5】
+- Achieved over 90% classification accuracy. 
 
 ### 📊 Retail Business Analysis Dashboard
 - Developed an interactive Power BI dashboard.
 - Tracked key sales, inventory, and customer KPIs.
-- Enabled faster data-driven decision making. 【1-a87a05\|8】
+- Enabled faster data-driven decision making. 
 
 ---
 
@@ -79,16 +79,17 @@
 - Built AI-powered CV Screening Workflow.
 - Developed Social Media ETL Automation.
 - Created an AI Email Agent using Mistral LLM.
-- Integrated multiple APIs and automation platforms. 【1-a87a05\|9】
+- Integrated multiple APIs and automation platforms. 
 
 ---
 
 ## 🏆 Certifications
 
+- Skillovilla Data Science and AI (8 months program)
 - Databricks Fundamentals Certification
 - IBM SkillBuild Data Fundamentals
 - Internshala Data Science Program
-- AI Automation Portfolio Projects 【1-a87a05\|19】
+- AI Automation Portfolio Projects 
 
 ---
 
